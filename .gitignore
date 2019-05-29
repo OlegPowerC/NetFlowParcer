@@ -106,7 +106,7 @@ dkms.conf
 *.out
 .idea/avayacdrparce.iml
 .idea/inspectionProfiles/
-.idea/misc.xml
+.idea/vcs.xml
 .idea/modules.xml
 .idea/workspace.xml
 collector.exe
